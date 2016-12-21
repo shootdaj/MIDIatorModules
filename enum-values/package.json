@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "enum-values@^1.0.1",
+        "scope": null,
+        "escapedName": "enum-values",
+        "name": "enum-values",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "C:\\temp\\3\\MIDIator\\MIDIator.WebClient\\app"
+    ]
+  ],
+  "_from": "enum-values@>=1.0.1 <2.0.0",
+  "_id": "enum-values@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/enum-values",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/enum-values-1.0.1.tgz_1469268280137_0.8955053125973791"
+  },
+  "_npmUser": {
+    "name": "slavik57",
+    "email": "slavik57@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "enum-values@^1.0.1",
+    "scope": null,
+    "escapedName": "enum-values",
+    "name": "enum-values",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/enum-values/-/enum-values-1.0.1.tgz",
+  "_shasum": "c1d699449cc16bba9ad95a17fa3c9b4db08a4d45",
+  "_shrinkwrap": null,
+  "_spec": "enum-values@^1.0.1",
+  "_where": "C:\\temp\\3\\MIDIator\\MIDIator.WebClient\\app",
+  "author": {
+    "name": "Slava Shpitalny",
+    "email": "slavik57@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/slavik57/enum-values/issues"
+  },
+  "dependencies": {},
+  "description": "Library for getting the names and values of typescript enum",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "c1d699449cc16bba9ad95a17fa3c9b4db08a4d45",
+    "tarball": "https://registry.npmjs.org/enum-values/-/enum-values-1.0.1.tgz"
+  },
+  "gitHead": "37313263c5c743cd5ff379f9aa761936f3d20bc5",
+  "homepage": "https://github.com/slavik57/enum-values#readme",
+  "keywords": [
+    "enum"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "slavik57",
+      "email": "slavik57@gmail.com"
+    }
+  ],
+  "name": "enum-values",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavik57/enum-values.git"
+  },
+  "scripts": {
+    "test": "mocha src/**/*.test.js --recursive -c -b"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.1"
+}
